@@ -22,6 +22,7 @@ TextView noClipLmao;
             @Override
             public void onClick(View v) {
                 noClipLmao.setText("Clicked");
+
             }
         });
 
